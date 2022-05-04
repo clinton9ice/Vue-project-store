@@ -148,6 +148,10 @@ export default {
   transform-origin: right;
   transform-style: preserve-3d;
   transform: translateX(0);
+  
+  .modal-body{
+    overflow-y: auto;
+    }
 
   .modal-dialog {
     transition: all 0.3s ease;
