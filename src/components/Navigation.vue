@@ -2,7 +2,7 @@
   <header class="header">
     <nav class="navbar bg-white bg-light">
       <div class="container-fluid">
-        <router-link to="/" class="navbar-brand"> Taskey</router-link>
+        <router-link to="/" class="navbar-brand"> Todo List </router-link>
         <form class="d-flex form" @submit.prevent="getSearch">
           <input
             class="form-control me-2"
