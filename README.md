@@ -1,8 +1,8 @@
-Vue.Js Todo Application
+Vue.Js Project Store
 ============
 [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/clinton9ice/Todo-app-application) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://github.com/clinton9ice/Todo-app-application) 
 
-This is a simple single page  Todo web application powered by Vue js and Vuex. Vuex is a store that holds the application states. 
+This is a simple single page   Web application powered by Vue js and Vuex. Vuex is a store that holds the application states. 
 
 Interesting feature about Vuex
 
